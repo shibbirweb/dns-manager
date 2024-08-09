@@ -1,0 +1,19 @@
+{
+    "name": "wedevs/magic-login",
+    "description": "Password less login helper for dns manager",
+    "type": "wordperss-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "WeDevs\\MagicLogin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Md. Shibbir Ahmed",
+            "email": "shibbirweb@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
